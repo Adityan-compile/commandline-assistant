@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from playsound import playsound
 import webbrowser                                        # dependencies
 from os import system, name
