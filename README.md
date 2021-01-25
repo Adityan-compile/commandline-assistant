@@ -38,11 +38,10 @@
 + Exit
 
 
-### Notes:
+### Warning:
 
-+ The response sounds are created by using an online text to speech tool therefore limiting the functionality of the assistant.   
-+ Future updates will not be implemented.
-+ The final program will vary from the screenshot
++ The response sounds are created by using an online text to speech tool therefore limiting the functionality of the assistant.
+
 
 
 ### screenshot:
